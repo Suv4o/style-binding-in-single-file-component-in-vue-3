@@ -1,7 +1,23 @@
-# Vue 3 + Vite
+# Style Binding in SFC in Vue 3
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+These examples are part of my blog post [Style Binding in SFC in Vue 3](https://www.trpkovski.com/2021/09/14/style-binding-in-sfc-in-vue-3/). Please refer to the blog article for detailed explanation.
 
-## Recommended IDE Setup
+<h2 align="center">Getting Started is Simple</h2>
 
-- [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
+#### Install dependencies
+
+```
+npm install
+```
+
+#### Serve at localhost:3000
+
+```
+npm run dev
+```
+
+#### Building for Production
+
+```
+npm run build
+```
